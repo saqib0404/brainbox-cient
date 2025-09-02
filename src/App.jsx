@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <AnimatedCursor
+       <AnimatedCursor
         innerSize={8}
         outerSize={24} // Adjusted for a more prominent ring effect
         color='193, 11, 111'
